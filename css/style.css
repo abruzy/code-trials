@@ -7,3 +7,8 @@ html, body {
 #nav-bar {
     position: fixed;
 }
+#header-img{
+    margin: 30px;
+    width: 150px;
+    height: 50px;
+}
